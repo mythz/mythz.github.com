@@ -36,7 +36,7 @@ function addSidebarToggler() {
     });
   }
   if (sections.length >= 3){ $('aside.sidebar').addClass('thirds'); }
-  $('.toggle-sidebar').addClass('collapse-sidebar');
+  $('body').addClass('collapse-sidebar');
 }
 
 function testFeatures() {
