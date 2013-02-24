@@ -4,7 +4,7 @@
   <title><![CDATA[blog]]></title>
   <link href="http://mythz.github.com/atom.xml" rel="self"/>
   <link href="http://mythz.github.com/"/>
-  <updated>2013-02-23T11:35:27+01:00</updated>
+  <updated>2013-02-24T01:28:29+01:00</updated>
   <id>http://mythz.github.com/</id>
   <author>
     <name><![CDATA[mythz]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Alan Kay on Software]]></title>
+    <link href="http://mythz.github.com/blog/2013/02/24/alan-kay-on-software/"/>
+    <updated>2013-02-24T01:26:00+01:00</updated>
+    <id>http://mythz.github.com/blog/2013/02/24/alan-kay-on-software</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Clojure and Light Table: a new way to learn]]></title>
