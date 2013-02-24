@@ -4,7 +4,7 @@
   <title><![CDATA[Category: lisp | blog]]></title>
   <link href="http://mythz.github.com/blog/categories/lisp/atom.xml" rel="self"/>
   <link href="http://mythz.github.com/"/>
-  <updated>2013-02-24T09:32:47+01:00</updated>
+  <updated>2013-02-24T10:55:48+01:00</updated>
   <id>http://mythz.github.com/</id>
   <author>
     <name><![CDATA[mythz]]></name>
@@ -18,10 +18,19 @@
     <link href="http://mythz.github.com/blog/2013/02/24/alan-kay-on-software/"/>
     <updated>2013-02-24T01:26:00+01:00</updated>
     <id>http://mythz.github.com/blog/2013/02/24/alan-kay-on-software</id>
-    <content type="html"><![CDATA[<p>Much of <a href="http://www.mprove.de/diplom/referencesKay.html">the</a>
+    <content type="html"><![CDATA[<p>If you haven't heard of <a href="http://en.wikipedia.org/wiki/Alan_Kay">Alan Kay</a> you will have likley have heard one
+of his many <a href="http://en.wikiquote.org/wiki/Alan_Kay">famous quotes</a>, the most popular, likely his 1971 gem:</p>
+
+<blockquote><p>The best way to predict the future is to invent it.</p></blockquote>
+
+<p>But for the unfamiliar, Alan has one of the most illustrious careers in computer science who's been awarded
+both a Kyoto Prize and a Turing award for his work on Object Orientated Programming.
+He is one of the pioneers of Personal Computing, the Graphical User Interface, Object Orientated Programming and the
+inventor of <a href="http://en.wikipedia.org/wiki/Smalltalk">Smalltalk</a> - one of the most influential languages of all time.</p>
+
+<p>Much of <a href="http://www.mprove.de/diplom/referencesKay.html">the</a>
 <a href="http://www.viewpointsresearch.org/html/writings.php">writing</a> of
-<a href="http://en.wikipedia.org/wiki/Alan_Kay">Alan Kay</a> (for those that don't know was one of the pioneers of the
-PC, GUIs, OOP and the inventor of Smalltalk) holds a insightful read into how the
+<a href="http://en.wikipedia.org/wiki/Alan_Kay">Alan Kay</a> holds a insightful read into how the
 <a href="http://www.vpri.org/pdf/m2004001_power.pdf">power of context (pdf)</a> impacts learning and goes on to provide a glimpse
 of the incredible innovation he was surrounded with during his time working on
 <a href="http://en.wikipedia.org/wiki/Advanced_Research_Projects_Agency">ARPA</a> and at
@@ -56,11 +65,17 @@ development and if there was something missing from our current languages and to
 
 <h2>On Object Orientated Programming</h2>
 
-<p>My first point of research was to find out his thinking behind and the original
-<a href="http://www.purl.org/stefan_ram/pub/doc_kay_oop_en">vision for Object Orientated Programming</a>:</p>
+<p>My first point of research was to find out his thinking behind his original
+<a href="http://www.purl.org/stefan_ram/pub/doc_kay_oop_en">vision for Object Orientated Programming</a> which were influenced
+by his Micro Biologist:</p>
 
 <blockquote><p>I thought of objects being like biological cells and/or individual computers on a network,
 only able to communicate with messages</p></blockquote>
+
+<p>and Mathematics backgrounds:</p>
+
+<blockquote><p>My math background made me realize that each object could haveseveral algebras associated with it,
+and there could be families of these, and that these would be very very useful.</p></blockquote>
 
 <p>Who after studying Lisp was heavily influenced by it's extreme late-binding and powerful meta capabilities:</p>
 
@@ -131,6 +146,36 @@ ways to improve developer skills, I set out to learn me some LISP!</p>
 
 <p>In my next post I explore the history and beauty of LISP, unlock its secrets and explain why it's still one of the
 most powerful and easiest programming languages to learn today!</p>
+
+<hr />
+
+<p>I wanted to end this post talking about the kind of man Alan is, as I had originally expected a man with such a
+innovative and distinguished career to be driven by the purity of Science and the pursuit of knowledge itself.</p>
+
+<p>He has instead spent a significant part of his career (dating as far back as 1968, when he met Seymour Papert
+the Author of Logo - a language optimized for educational use) looking at how best to use technology to empower
+children and how computers could help them learn by allowing them to experiment and simulate real world models).
+His goal was to think of <a href="http://www.donhopkins.com/drupal/node/140">children as thinking beings in their own right</a></p>
+
+<blockquote><p>rather than as "defective adults who have to be fixed by education"</p></blockquote>
+
+<p>In this goal he envisaged the <a href="http://en.wikipedia.org/wiki/Dynabook">Dynabook</a> concept in 1968 and later
+published the concept in a 1972 paper titled
+<a href="http://www.mprove.de/diplom/gui/kay72.html">A personal computer for children of all ages</a> whilst he was still
+working for Xerox Palo Alto Research Center. This was the project that drove both the creation of the graphical user
+interface and the development of Smalltalk in as early as 1972.</p>
+
+<p>In 1995 he went on to create <a href="http://en.wikipedia.org/wiki/Etoys_(programming_language">Etoys computing environment</a>)
+a media rich authoring environment where kids can create and tweak models of real-life objects.</p>
+
+<p>In 2001 he setup the Viewpoints Research Institute, a nonprofit public benefit organization incorporated in 2001
+to improve "powerful ideas education" for the world's children,</p>
+
+<p>In 2006-2007, Etoys was used by the <a href="http://en.wikipedia.org/wiki/One_Laptop_per_Child">One Laptop per Child (OLPC)</a>
+project, on their OLPC XO-1 educational machine which is now preinstalled on all of the XO-1 laptops.</p>
+
+<p>It was nice to see that one of the most innovative era's in computing history was a by-product in the pursuit to improve
+children education.</p>
 ]]></content>
   </entry>
   
