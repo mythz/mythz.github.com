@@ -112,7 +112,6 @@ And finds [static type systems too crippling](http://queue.acm.org/detail.cfm?id
 
 Other than Smalltalk and LISP, other popular languages embracing Smalltalk's message-passing and late-binding include: 
 [Objective-C](http://en.wikipedia.org/wiki/Objective-C), 
-
 <a href="http://en.wikipedia.org/wiki/Ruby_(programming_language)">Ruby</a> and more recently 
 Google's <a href="http://en.wikipedia.org/wiki/Dart_(programming_language)">Dart</a>
 
