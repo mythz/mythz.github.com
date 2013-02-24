@@ -6,10 +6,19 @@ comments: true
 categories: [software, oop, messaging, smalltalk, lisp, ruby, dart]
 ---
 
+If you haven't heard of [Alan Kay](http://en.wikipedia.org/wiki/Alan_Kay) you will have likley have heard one 
+of his many [famous quotes](http://en.wikiquote.org/wiki/Alan_Kay), the most popular, likely his 1971 gem:
+
+> The best way to predict the future is to invent it.
+
+But for the unfamiliar, Alan has one of the most illustrious careers in computer science who's been awarded 
+both a Kyoto Prize and a Turing award for his work on Object Orientated Programming.
+He is one of the pioneers of Personal Computing, the Graphical User Interface, Object Orientated Programming and the 
+inventor of [Smalltalk](http://en.wikipedia.org/wiki/Smalltalk) - one of the most influential languages of all time.
+
 Much of [the](http://www.mprove.de/diplom/referencesKay.html) 
 [writing](http://www.viewpointsresearch.org/html/writings.php) of 
-[Alan Kay](http://en.wikipedia.org/wiki/Alan_Kay) (for those that don't know was one of the pioneers of the 
-PC, GUIs, OOP and the inventor of Smalltalk) holds a insightful read into how the 
+[Alan Kay](http://en.wikipedia.org/wiki/Alan_Kay) holds a insightful read into how the 
 [power of context (pdf)](http://www.vpri.org/pdf/m2004001_power.pdf) impacts learning and goes on to provide a glimpse 
 of the incredible innovation he was surrounded with during his time working on
 [ARPA](http://en.wikipedia.org/wiki/Advanced_Research_Projects_Agency) and at 
@@ -42,11 +51,17 @@ development and if there was something missing from our current languages and to
 
 ## On Object Orientated Programming
 
-My first point of research was to find out his thinking behind and the original 
-[vision for Object Orientated Programming](http://www.purl.org/stefan_ram/pub/doc_kay_oop_en): 
+My first point of research was to find out his thinking behind his original 
+[vision for Object Orientated Programming](http://www.purl.org/stefan_ram/pub/doc_kay_oop_en) which were influenced
+by his Micro Biologist: 
 
 > I thought of objects being like biological cells and/or individual computers on a network, 
 > only able to communicate with messages
+
+and Mathematics backgrounds:
+
+> My math background made me realize that each object could haveseveral algebras associated with it, 
+> and there could be families of these, and that these would be very very useful.
 
 Who after studying Lisp was heavily influenced by it's extreme late-binding and powerful meta capabilities:
 
@@ -116,3 +131,32 @@ ways to improve developer skills, I set out to learn me some LISP!
 
 In my next post I explore the history and beauty of LISP, unlock its secrets and explain why it's still one of the 
 most powerful and easiest programming languages to learn today!
+
+*****
+
+I wanted to end this post talking about the kind of man Alan is, as I had originally expected a man with such a 
+innovative and distinguished career to be driven by the purity of Science and the pursuit of knowledge itself. 
+
+He has instead spent a significant part of his career (dating as far back as 1968, when he met Seymour Papert 
+the Author of Logo - a language optimized for educational use) looking at how best to use technology to empower 
+children and how computers could help them learn by allowing them to experiment and simulate real world models).
+His goal was to think of [children as thinking beings in their own right](http://www.donhopkins.com/drupal/node/140)
+> rather than as "defective adults who have to be fixed by education"
+
+In this goal he envisaged the [Dynabook](http://en.wikipedia.org/wiki/Dynabook) concept in 1968 and later 
+published the concept in a 1972 paper titled 
+[A personal computer for children of all ages](http://www.mprove.de/diplom/gui/kay72.html) whilst he was still 
+working for Xerox Palo Alto Research Center. This was the project that drove both the creation of the graphical user 
+interface and the development of Smalltalk in as early as 1972.
+
+In 1995 he went on to create [Etoys computing environment](http://en.wikipedia.org/wiki/Etoys_(programming_language))
+a media rich authoring environment where kids can create and tweak models of real-life objects. 
+
+In 2001 he setup the Viewpoints Research Institute, a nonprofit public benefit organization incorporated in 2001 
+to improve "powerful ideas education" for the world's children, 
+
+In 2006-2007, Etoys was used by the [One Laptop per Child (OLPC)](http://en.wikipedia.org/wiki/One_Laptop_per_Child) 
+project, on their OLPC XO-1 educational machine which is now preinstalled on all of the XO-1 laptops.
+
+It was nice to see that one of the most innovative era's in computing history was a by-product in the pursuit to improve 
+children education.
