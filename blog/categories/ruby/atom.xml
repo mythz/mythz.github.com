@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ruby | blog]]></title>
   <link href="http://mythz.github.com/blog/categories/ruby/atom.xml" rel="self"/>
   <link href="http://mythz.github.com/"/>
-  <updated>2013-02-24T11:22:58+01:00</updated>
+  <updated>2013-02-24T11:28:40+01:00</updated>
   <id>http://mythz.github.com/</id>
   <author>
     <name><![CDATA[mythz]]></name>
@@ -109,7 +109,7 @@ There are possibly other systems in which this is possible, but I'm not aware of
 <blockquote><p> I'm sorry that I long ago coined the term "objects" for this topic because it gets many people to focus on the
 lesser idea.</p></blockquote>
 
-<p>The big missing piece not embraced by mainstream typed OO languages today is:</p>
+<p>Where the big missing piece not embraced by mainstream typed OO languages today:</p>
 
 <blockquote><p>The big idea is "messaging"</p></blockquote>
 
