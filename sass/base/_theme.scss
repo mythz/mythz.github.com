@@ -70,7 +70,8 @@ a {
 }
 
 html {
-  background: $page-bg image-url('line-tile.png') top left;
+  /*background: $page-bg image-url('line-tile.png') top left;*/
+  background: #f2f2f2;
 }
 body {
   #main{
@@ -84,6 +85,9 @@ body {
     > div {
       border-right: 1px solid $sidebar-border;
     }
+  }
+  > header, > footer, nav[role=navigation] {
+    display: none;
   }
 }
 
