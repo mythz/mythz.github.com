@@ -22,8 +22,8 @@ Much of [the](http://www.mprove.de/diplom/referencesKay.html)
 [power of context (pdf)](http://www.vpri.org/pdf/m2004001_power.pdf) impacts learning and goes on to provide a glimpse 
 of the incredible innovation he was surrounded with during his time working on
 [ARPA](http://en.wikipedia.org/wiki/Advanced_Research_Projects_Agency) and at 
-[Xerox PARC](http://en.wikipedia.org/wiki/PARC_(company)) whose creative works have formed much of personal computing 
-and programming as we know it today.
+<a href="http://en.wikipedia.org/wiki/PARC_(company)">Xerox PARC</a> 
+whose creative works have formed much of personal computing and programming as we know it today.
 
 ## On Software Engineering
 
@@ -43,7 +43,7 @@ His enlightening 2011 talk on
 re-iterates on this, suggests software engineering has stalled and is becoming a lost science, which has become like
 a garbage dumping ground where no one is able to comprehend the 100M LOC's used to create Vista and Word which should 
 only be a fraction of their size. He gives the Internet and TCP/IP, LISP Interpeters, 
-[Nile (Math DSL for Vector Graphics) and OMeta (OO PEG)](http://www.vpri.org/pdf/rn2010001_programm.pdf) 
+[Nile (Math DSL for Vector Graphics) and OMeta (OO PEG) (pdf)](http://www.vpri.org/pdf/rn2010001_programm.pdf) 
 as examples of elegant software with profound impact and minimal code-bases.
 
 This got me curious on whether he had further insights on what we could improve with the current state of software 
@@ -112,8 +112,9 @@ And finds [static type systems too crippling](http://queue.acm.org/detail.cfm?id
 
 Other than Smalltalk and LISP, other popular languages embracing Smalltalk's message-passing and late-binding include: 
 [Objective-C](http://en.wikipedia.org/wiki/Objective-C), 
-[Ruby](http://en.wikipedia.org/wiki/Ruby_(programming_language)) and more recently 
-Google's [Dart](http://en.wikipedia.org/wiki/Dart_(programming_language)). 
+
+<a href="http://en.wikipedia.org/wiki/Ruby_(programming_language)">Ruby</a> and more recently 
+Google's <a href="http://en.wikipedia.org/wiki/Dart_(programming_language)">Dart</a>
 
 ## On LISP
 
@@ -149,7 +150,8 @@ published the concept in a 1972 paper titled
 working for Xerox Palo Alto Research Center. This was the project that drove both the creation of the graphical user 
 interface and the development of Smalltalk in as early as 1972.
 
-In 1995 he went on to create [Etoys computing environment](http://en.wikipedia.org/wiki/Etoys_(programming_language))
+In 1995 he went on to create 
+<a href="http://en.wikipedia.org/wiki/Etoys_(programming_language)">Etoys computing environment</a>
 a media rich authoring environment where kids can create and tweak models of real-life objects. 
 
 In 2001 he setup the Viewpoints Research Institute, a nonprofit public benefit organization incorporated in 2001 
