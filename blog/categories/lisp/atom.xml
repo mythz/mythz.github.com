@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: lisp | blog]]></title>
+  <title><![CDATA[Category: lisp | mythz blog]]></title>
   <link href="http://mythz.github.com/blog/categories/lisp/atom.xml" rel="self"/>
   <link href="http://mythz.github.com/"/>
-  <updated>2013-02-26T09:08:42+01:00</updated>
+  <updated>2013-02-26T09:11:43+01:00</updated>
   <id>http://mythz.github.com/</id>
   <author>
     <name><![CDATA[mythz]]></name>
