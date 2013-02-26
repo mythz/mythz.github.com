@@ -53,12 +53,12 @@ development and if there was something missing from our current languages and to
 
 My first point of research was to find out his thinking behind his original 
 [vision for Object Orientated Programming](http://www.purl.org/stefan_ram/pub/doc_kay_oop_en) which were influenced
-by his Micro Biologist: 
+by his background as a Micro Biologist: 
 
 > I thought of objects being like biological cells and/or individual computers on a network, 
 > only able to communicate with messages
 
-and Mathematics backgrounds:
+and a Mathematician:
 
 > My math background made me realize that each object could haveseveral algebras associated with it, 
 > and there could be families of these, and that these would be very very useful.
@@ -68,13 +68,13 @@ Who after studying Lisp was heavily influenced by it's extreme late-binding and 
 > The second phase of this was to finally understand LISP and then using this understanding to make much nicer and 
 > smaller and more powerful and more late bound understructures. 
 
-and from that point on became a strong advocate for dynamic languages for 
+who from that point on became a strong advocate for dynamic languages for 
 [the future of software engineering (pdf)](http://squab.no-ip.com/collab/uploads/61/IsSoftwareEngineeringAnOxymoron.pdf):
 
 > Until real software engineering is developed, the next best practice is to develop with a dynamic system that 
 > has extreme late binding in all aspects.
 
-primarily because they are more easily able to be changed:
+primarily as they are more easily able to be changed:
 
 > Late binding allows ideas learned late in project development to be reformulated into the project with 
 > exponentially less effort than traditional early binding systems (C, C++, Java, etc.)
@@ -84,18 +84,24 @@ with the potential for applying incremental on-the-fly changes and faster iterat
 > One key idea is to keep the system running while testing and especially while making changes. Even major changes 
 > should be incremental and take no more than a fraction of a second to effect.
 
+that's currently [lacking in statically-typed languages](http://queue.acm.org/detail.cfm?id=1039523):
+
+> If you’re using early-binding languages as most people do, rather than late-binding languages, then you really 
+> start getting locked in to stuff that you’ve already done. You can’t reformulate things that easily.
+
 Surprisingly his thoughts behind OOP were limited to only this narrow scope:
 
 > OOP to me means only messaging, local retention and protection and hiding of state-process, 
 > and extreme late-binding of all things. It can be done in Smalltalk and in LISP. 
 > There are possibly other systems in which this is possible, but I'm not aware of them.
 
-Which is [not like we know it today](http://lists.squeakfoundation.org/pipermail/squeak-dev/1998-October/017019.html):
+With no mention of inheritance, which is 
+[not like we know it today](http://lists.squeakfoundation.org/pipermail/squeak-dev/1998-October/017019.html):
 
 >  I'm sorry that I long ago coined the term "objects" for this topic because it gets many people to focus on the 
 lesser idea.
 
-Where the big missing piece not embraced by mainstream typed OO languages today:
+Where the big missing piece lacking in mainstream typed OO languages today is:
 
 > The big idea is "messaging"
 
@@ -115,6 +121,10 @@ Other than Smalltalk and LISP, other popular languages embracing Smalltalk's mes
 <a href="http://en.wikipedia.org/wiki/Ruby_(programming_language)">Ruby</a> and more recently 
 Google's <a href="http://en.wikipedia.org/wiki/Dart_(programming_language)">Dart</a>
 
+## On Messaging
+
+Possibly the only real object-oriented system in working order
+
 ## On LISP
 
 Something that's continually re-iterated in his papers and interviews is 
@@ -127,31 +137,48 @@ Which [he thinks all comp-sci grads should learn](http://www.windley.com/archive
 > Lisp is the most important idea in computer science.
 
 Sadly this wasn't me either - but since learning new programming paradigms and exploring different views are great 
-ways to improve developer skills, I set out to learn me some LISP!
+ways to improve developer skills, I set out to learn some LISP!
 
-In my next post I explore the history and beauty of LISP, unlock its secrets and explain why it's still one of the 
-most powerful and easiest programming languages to learn today!
+In my next post I'll explore the history and beauty of LISP, unlock its secret magical properties that explains why 
+it's still one of the most powerful and easiest programming languages to learn today!
+
+<br />
 
 *****
 
-I wanted to end this post talking about the kind of man Alan is, as I had originally expected a man with such a 
-innovative and distinguished career to be driven by the purity of Science and the pursuit of knowledge itself. 
+<br />
 
-He has instead spent a significant part of his career (dating as far back as 1968, when he met Seymour Papert 
-the Author of Logo - a language optimized for educational use) looking at how best to use technology to empower 
-children and how computers could help them learn by allowing them to experiment and simulate real world models).
-His goal was to think of [children as thinking beings in their own right](http://www.donhopkins.com/drupal/node/140)
+I wanted to end this post talking about a little known fact around what the primary motivation behind his teams 
+pioneering work that was responsible for much of the innovations that advanced computer-science. 
+
+Dating as far back as 1968, when he met Seymour Papert the Author of Logo (a language optimized for educational use) 
+he [started his research with the goal](http://www.viewpointsresearch.org/pdf/m2007007a_revolution.pdf):
+
+> to help children – and thus humanity – to learn and absorb “science in the large”.
+
+that is, looking at how best to use technology to empower children's ability to learn. One way was showing them how
+to build and simulate real-world models with a computer, letting them measure, experiment and observe behavior as 
+they tinkered with them.
+
+One of his goals was to change how children were educated where instead of dispensing them with facts, 
+to instead encourage them to observe real-world behavior for themselves and get teaches to think of 
+[children as thinking beings in their own right](http://www.donhopkins.com/drupal/node/140)
 > rather than as "defective adults who have to be fixed by education"
 
-In this goal he envisaged the [Dynabook](http://en.wikipedia.org/wiki/Dynabook) concept in 1968 and later 
-published the concept in a 1972 paper titled 
-[A personal computer for children of all ages](http://www.mprove.de/diplom/gui/kay72.html) whilst he was still 
-working for Xerox Palo Alto Research Center. This was the project that drove both the creation of the graphical user 
-interface and the development of Smalltalk in as early as 1972.
+This effective method of learning was termed 
+<a href="http://en.wikipedia.org/wiki/Constructionism_(learning_theory)">Constructionist learning</a> and
+defined by Papert in his 1987 Constructionism publication: 
+[A New Opportunity for Elementary Science Education](http://nsf.gov/awardsearch/showAward?AWD_ID=8751190)
 
-In 1995 he went on to create 
+Alan envisaged the [Dynabook](http://en.wikipedia.org/wiki/Dynabook) concept in 1968 and later published the concept 
+in a 1972 paper titled [A personal computer for children of all ages](http://www.mprove.de/diplom/gui/kay72.html). 
+This was the project that drove both the creation of the graphical user interface and the development of Smalltalk 
+in as early as 1972.
+
+In 1995 he went on to create the 
 <a href="http://en.wikipedia.org/wiki/Etoys_(programming_language)">Etoys computing environment</a>
-a media rich authoring environment where kids can create and tweak models of real-life objects. 
+a media rich authoring environment (built ontop of Squeak/Smalltalk) where kids can create and tweak models of 
+real-life objects. 
 
 In 2001 he setup the Viewpoints Research Institute, a nonprofit public benefit organization incorporated in 2001 
 to improve "powerful ideas education" for the world's children, 
@@ -159,5 +186,5 @@ to improve "powerful ideas education" for the world's children,
 In 2006-2007, Etoys was used by the [One Laptop per Child (OLPC)](http://en.wikipedia.org/wiki/One_Laptop_per_Child) 
 project, on their OLPC XO-1 educational machine which is now preinstalled on all of the XO-1 laptops.
 
-It was nice to see that one of the most innovative era's in computing history was a by-product in the pursuit to improve 
-children education.
+This was a fun-fact to discover that one of the most innovative era's in computing history was a by-product of the 
+pursuit to improve childrens education.
