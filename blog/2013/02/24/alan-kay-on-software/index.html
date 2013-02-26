@@ -147,9 +147,10 @@ which aims at achieving a &#8220;Moore’s Law&#8221; Leap in Expressiveness by 
 
 <p>His enlightening 2011 talk on
 <a href="http://www.tele-task.de/de/archive/lecture/overview/5819/">Programming and Scaling (video)</a>
-re-iterates on this, suggests software engineering has stalled and is becoming a lost science, which has become like
-a garbage dumping ground where no one is able to comprehend the 100M LOC&#8217;s used to create Vista and Word which should
-only be a fraction of their size. He gives the Internet and TCP/IP, LISP Interpeters,
+re-iterates on this, suggests software engineering has stalled and is becoming a lost science that has not been able
+to keep pace with the advancement in hardware or mechanical engineering. That has become like a garbage dumping ground
+which has reached a point where no one is able to comprehend the 100M LOC&#8217;s used to create Vista and Word which
+should only be a fraction of their size. He gives the Internet and TCP/IP, LISP Interpeters,
 <a href="http://www.vpri.org/pdf/rn2010001_programm.pdf">Nile (Math DSL for Vector Graphics) and OMeta (OO PEG) (pdf)</a>
 as examples of elegant software with profound impact and minimal code-bases.</p>
 
@@ -230,7 +231,40 @@ Google&#8217;s <a href="http://en.wikipedia.org/wiki/Dart_(programming_language)
 
 <h2>On Messaging</h2>
 
-<p>Possibly the only real object-oriented system in working order</p>
+<p>As a longtime proponent for the use
+<a href="https://github.com/ServiceStack/ServiceStack/wiki/What-is-a-message-based-web-service%3F">messaging</a> for any type
+of remote service, I was already aware of the inherent
+<a href="https://github.com/ServiceStack/ServiceStack/wiki/Advantages-of-message-based-web-services">advantages message-based services</a>
+had. So I was very interested in
+<a href="http://www.computerworld.com.au/article/352182/z_programming_languages_smalltalk-80/">Alan&#8217;s thoughts of the subject</a>:</p>
+
+<blockquote><p>I could see that a more comprehensive basis could be made by going all the way to thinking of efficient whole
+virtual machines communicating only by messages. This would provide scaling, be a virtual version of what my
+research community, ARPA-IPTO was starting to do with large scale networking, and also would have some powerful
+“algebraic” properties (like polymorphism).</p></blockquote>
+
+<p>On the Internet:</p>
+
+<blockquote><p>To me, one of the nice things about the semantics of real objects is that they are  “real computers all the way down
+(RCATWD)” – this always retains the full ability to represent anything.
+The old way quickly gets to two things that aren’t computers – data and procedures – and all of a sudden the ability
+to defer optimizations and particular decisions in favour of behaviours has been lost.  In other words, always having
+real objects always retains the ability to simulate anything you want, and to send it around the planet. &#8230;
+And RCATWD also provides perfect protection in both directions. We can see this in the hardware model of the
+Internet (possibly the only real object-oriented system in working order). You get language extensibility almost for
+free by simply agreeing on conventions for the message forms. My thought in the 70s was that the Internet we were all
+working on alongside personal computing was a really good scalable design, and that we should make a virtual internet
+of virtual machines that could be cached by the hardware machines. It’s really too bad that this didn’t happen.
+If &#8216;real objects&#8217; are RCATWD, then each object could be implemented using the programming language most appropriate
+for its intrinsic nature, which would give new meaning to the phrase &#8216;polyglot programming.&#8217;</p></blockquote>
+
+<p>On RPC:</p>
+
+<blockquote><p>The people who liked objects as non-data were smaller in number, and included myself, Carl Hewitt, Dave Reed
+and a few others &#8211; pretty much all of this group were from the ARPA community and were involved in one way or
+another with the design of ARPAnet->Internet in which the basic unit of computation was a whole computer. But just
+to show how stubbornly an idea can hang on, all through the seventies and eighties, there were many people who
+tried to get by with &#8220;Remote Procedure Call&#8221; instead of thinking about objects and messages. Sic transit gloria mundi.</p></blockquote>
 
 <h2>On LISP</h2>
 
