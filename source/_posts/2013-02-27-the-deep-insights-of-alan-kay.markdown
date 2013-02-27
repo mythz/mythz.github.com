@@ -12,8 +12,8 @@ If you haven't heard of [Alan Kay](http://en.wikipedia.org/wiki/Alan_Kay) you'll
 > The best way to predict the future is to invent it.
 
 But for the unfamiliar, Alan has one of the most illustrious careers in computer science who's been awarded both a 
-Kyoto Prize and a Turing award for his work on Object Orientated Programming. 
-He's also one of the pioneers of Personal Computing, the Graphical User Interface, Object Orientated Programming and the 
+Kyoto Prize and a Turing award for his work on Object Oriented Programming. 
+He's also one of the pioneers of Personal Computing, the Graphical User Interface, Object Oriented Programming and the 
 inventor of [Smalltalk](http://en.wikipedia.org/wiki/Smalltalk) - one of the most influential languages of all time.
 
 Much of [the](http://www.mprove.de/diplom/referencesKay.html) 
@@ -21,7 +21,7 @@ Much of [the](http://www.mprove.de/diplom/referencesKay.html)
 [Alan Kay](http://en.wikipedia.org/wiki/Alan_Kay) holds an insightful read into how the 
 [power of context (pdf)](http://www.vpri.org/pdf/m2004001_power.pdf) where he recalls the one-of-a-kind environment at 
 <a href="http://en.wikipedia.org/wiki/PARC_(company)">Xerox PARC</a> and 
-[ARPA](http://en.wikipedia.org/wiki/Advanced_Research_Projects_Agency) which were orientated around 
+[ARPA](http://en.wikipedia.org/wiki/Advanced_Research_Projects_Agency) which were Oriented around 
 "visions rather than goals" and "funded people, not projects" which as a result had attracted brilliant minds together 
 cultivating different view points essential for progress where he considers:
 
@@ -38,7 +38,7 @@ And that they did, which saw through the creation of the
 which were the foundations for much of personal computing and programming as we know it today, including:
 
   - Laser Printers
-  - Object Orientated Programming / Smalltalk
+  - Object Oriented Programming / Smalltalk
   - Personal Computers
   - Ethernet / Distributed Computing
   - GUI / Mouse / WYSIWYG
@@ -93,10 +93,10 @@ I was intrigued to find out whether Alan had any further insights on what we cou
 of software development and if there was something missing from our current languages, approaches and tools... 
 
 <a name="oop"></a>
-## On Object Orientated Programming
+## On Object Oriented Programming
 
 My first point of research was to find out his thinking behind his original 
-[vision for Object Orientated Programming](http://www.purl.org/stefan_ram/pub/doc_kay_oop_en) which were influenced
+[vision for Object Oriented Programming](http://www.purl.org/stefan_ram/pub/doc_kay_oop_en) which were influenced
 by his background as a Micro Biologist: 
 
 > I thought of objects being like biological cells and/or individual computers on a network, 
