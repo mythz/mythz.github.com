@@ -76,10 +76,20 @@ Vista and Word, which should only be a fraction of their size. He gives the Inte
 [Nile (Math DSL for Vector Graphics) and OMeta (OO PEG) (pdf)](http://www.vpri.org/pdf/rn2010001_programm.pdf) 
 as examples of elegant software with profound impact and minimal code-bases.
 
-Nile/OMeta DSL is used an example to show how the same functionality could be achieved to build a system from scratch 
+He refers to the Internet (TCP/IP) as being one of the few large-scale software projects that was properly engineered
+where its level of complication is balanced by its level of complexity which was achieved in < 20k LOC that acts behaves 
+like a living, dynamic system able to handle billions of nodes that has never been stopped after it was turned on in 
+September, 1969. [As this was so rare](http://www.drdobbs.com/architecture-and-design/interview-with-alan-kay/240003442) 
+many people don't consider the Internet as normal software made by man:
+
+> The Internet was done so well that most people think of it as a natural resource like the Pacific Ocean, rather 
+> than something that was man-made. When was the last time a technology with a scale like that was so error-free? 
+> The Web, in comparison, is a joke. The Web was done by amateurs.
+
+Nile/OMeta DSL is another example showing how the same functionality could be achieved to build a system from scratch 
 in thousands of lines of code rather than the millions found in comparable commercial versions.
 
-This got be curious to find out whether Alan had any further insights on what we could do to improve the current state 
+I was intrigued to find out whether Alan had any further insights on what we could do to improve the current state 
 of software development and if there was something missing from our current languages, approaches and tools... 
 
 <a name="oop"></a>
