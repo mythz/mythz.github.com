@@ -4,7 +4,7 @@
   <title><![CDATA[Category: lisp | mythz blog]]></title>
   <link href="http://mythz.github.com/blog/categories/lisp/atom.xml" rel="self"/>
   <link href="http://mythz.github.com/"/>
-  <updated>2013-02-27T17:31:03+01:00</updated>
+  <updated>2013-02-27T19:59:31+01:00</updated>
   <id>http://mythz.github.com/</id>
   <author>
     <name><![CDATA[mythz]]></name>
@@ -24,8 +24,8 @@
 <blockquote><p>The best way to predict the future is to invent it.</p></blockquote>
 
 <p>But for the unfamiliar, Alan has one of the most illustrious careers in computer science who's been awarded both a
-Kyoto Prize and a Turing award for his work on Object Orientated Programming.
-He's also one of the pioneers of Personal Computing, the Graphical User Interface, Object Orientated Programming and the
+Kyoto Prize and a Turing award for his work on Object Oriented Programming.
+He's also one of the pioneers of Personal Computing, the Graphical User Interface, Object Oriented Programming and the
 inventor of <a href="http://en.wikipedia.org/wiki/Smalltalk">Smalltalk</a> - one of the most influential languages of all time.</p>
 
 <p>Much of <a href="http://www.mprove.de/diplom/referencesKay.html">the</a>
@@ -33,7 +33,7 @@ inventor of <a href="http://en.wikipedia.org/wiki/Smalltalk">Smalltalk</a> - one
 <a href="http://en.wikipedia.org/wiki/Alan_Kay">Alan Kay</a> holds an insightful read into how the
 <a href="http://www.vpri.org/pdf/m2004001_power.pdf">power of context (pdf)</a> where he recalls the one-of-a-kind environment at
 <a href="http://en.wikipedia.org/wiki/PARC_(company)">Xerox PARC</a> and
-<a href="http://en.wikipedia.org/wiki/Advanced_Research_Projects_Agency">ARPA</a> which were orientated around
+<a href="http://en.wikipedia.org/wiki/Advanced_Research_Projects_Agency">ARPA</a> which were Oriented around
 "visions rather than goals" and "funded people, not projects" which as a result had attracted brilliant minds together
 cultivating different view points essential for progress where he considers:</p>
 
@@ -51,7 +51,7 @@ which were the foundations for much of personal computing and programming as we 
 
 <ul>
 <li>Laser Printers</li>
-<li>Object Orientated Programming / Smalltalk</li>
+<li>Object Oriented Programming / Smalltalk</li>
 <li>Personal Computers</li>
 <li>Ethernet / Distributed Computing</li>
 <li>GUI / Mouse / WYSIWYG</li>
@@ -112,10 +112,10 @@ of software development and if there was something missing from our current lang
 
 <p><a name="oop"></a></p>
 
-<h2>On Object Orientated Programming</h2>
+<h2>On Object Oriented Programming</h2>
 
 <p>My first point of research was to find out his thinking behind his original
-<a href="http://www.purl.org/stefan_ram/pub/doc_kay_oop_en">vision for Object Orientated Programming</a> which were influenced
+<a href="http://www.purl.org/stefan_ram/pub/doc_kay_oop_en">vision for Object Oriented Programming</a> which were influenced
 by his background as a Micro Biologist:</p>
 
 <blockquote><p>I thought of objects being like biological cells and/or individual computers on a network,
