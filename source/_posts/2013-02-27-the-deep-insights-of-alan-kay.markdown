@@ -305,7 +305,11 @@ In 2006-2007, the [One Laptop per Child (OLPC)](http://en.wikipedia.org/wiki/One
 [pre-installed the Squeak Etoys multimedia authoring system](http://wiki.laptop.org/images/2/28/OLPCEtoys.pdf)
 on all their OLPC XO-1 educational machines.
 
-*****
-
 This was a fun-fact to discover that one of the most innovative era's in computing history was a by-product of the 
 pursuit to improve childrens education! - makes me feel a little better about the world :)
+
+*****
+
+<br/>
+
+[Comment in Hacker News](http://news.ycombinator.com/item?id=5293152).
