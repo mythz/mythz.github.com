@@ -310,6 +310,4 @@ pursuit to improve childrens education! - makes me feel a little better about th
 
 *****
 
-<br/>
-
-[Comment in Hacker News](http://news.ycombinator.com/item?id=5293152).
+[Comments in Hacker News](http://news.ycombinator.com/item?id=5293152).
