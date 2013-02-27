@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://mythz.github.com/blog/2013/02/24/alan-kay-on-software/</loc>
+        <lastmod>2013-02-26T11:02:53+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://mythz.github.com/blog/2013/02/24/the-beauty-of-lisp/</loc>
+        <lastmod>2013-02-24T11:38:55+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://mythz.github.com/</loc>
+        <lastmod>2013-02-26T11:02:53+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://mythz.github.com/robots.txt</loc>
+        <lastmod>2013-02-23T09:36:24+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://mythz.github.com/blog/archives/</loc>
+        <lastmod>2013-02-26T11:02:53+01:00</lastmod>
+    </url>
+</urlset>
