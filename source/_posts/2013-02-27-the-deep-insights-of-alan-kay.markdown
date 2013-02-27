@@ -258,10 +258,6 @@ and explain why it's still one of the most powerful and easiest programming lang
 
 <br />
 
-*****
-
-<br />
-
 <a name="learning"></a>
 ## The Unknown side of Alan Kay
 
@@ -310,4 +306,4 @@ pursuit to improve childrens education! - makes me feel a little better about th
 
 *****
 
-[Comments in Hacker News](http://news.ycombinator.com/item?id=5293152).
+[Comments in Hacker News](http://news.ycombinator.com/item?id=5293152)
