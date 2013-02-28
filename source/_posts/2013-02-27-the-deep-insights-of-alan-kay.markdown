@@ -21,7 +21,7 @@ Much of [the](http://www.mprove.de/diplom/referencesKay.html)
 [Alan Kay](http://en.wikipedia.org/wiki/Alan_Kay) holds an insightful read into how the 
 [power of context (pdf)](http://www.vpri.org/pdf/m2004001_power.pdf) where he recalls the one-of-a-kind environment at 
 <a href="http://en.wikipedia.org/wiki/PARC_(company)">Xerox PARC</a> and 
-[ARPA](http://en.wikipedia.org/wiki/Advanced_Research_Projects_Agency) which were Oriented around 
+[ARPA](http://en.wikipedia.org/wiki/Advanced_Research_Projects_Agency) which were harnessed around 
 "visions rather than goals" and "funded people, not projects" which as a result had attracted brilliant minds together 
 cultivating different view points essential for progress where he considers:
 
@@ -72,7 +72,7 @@ His enlightening 2011 talk on
 re-iterates on this, suggests software engineering has stalled and is becoming a lost science that has not been able
 to advance at the same pace as hardware or other science and engineering disciplines. That large code-bases are akin to a 
 garbage dumping ground, reaching the point where no one is able to comprehend the 100M LOC's used to create 
-Vista and Word, which should only be a fraction of their size. He gives the Internet and TCP/IP, LISP Interpeters, 
+Vista and Word, which should only be a fraction of their size. He gives the Internet and TCP/IP, LISP Interpreters, 
 [Nile (Math DSL for Vector Graphics) and OMeta (OO PEG) (pdf)](http://www.vpri.org/pdf/rn2010001_programm.pdf) 
 as examples of elegant software with profound impact and minimal code-bases.
 
@@ -104,7 +104,7 @@ by his background as a Micro Biologist:
 
 and a Mathematician:
 
-> My math background made me realize that each object could haveseveral algebras associated with it, 
+> My math background made me realize that each object could have several algebras associated with it, 
 > and there could be families of these, and that these would be very very useful.
 
 Who after studying Lisp was heavily influenced by it's extreme late-binding and powerful meta capabilities:
@@ -153,7 +153,7 @@ He advocates focus should instead be on messaging and the loose-coupling and int
 than their internal object composition:
 
 > The key in making great and growable systems is much more to design how its modules communicate rather than 
-> what their internal properties andbehaviors should be.
+> what their internal properties and behaviors should be.
 
 And finds [static type systems too crippling](http://queue.acm.org/detail.cfm?id=1039523):
 
