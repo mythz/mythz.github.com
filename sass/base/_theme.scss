@@ -86,9 +86,6 @@ body {
       border-right: 1px solid $sidebar-border;
     }
   }
-  > header, > footer, nav[role=navigation] {
-    display: none;
-  }
 }
 
 .notfound404 article{
