@@ -4,7 +4,7 @@
   <title><![CDATA[Category: software | mythz blog]]></title>
   <link href="http://mythz.github.com/blog/categories/software/atom.xml" rel="self"/>
   <link href="http://mythz.github.com/"/>
-  <updated>2013-02-27T19:59:31+01:00</updated>
+  <updated>2013-02-28T06:37:49+01:00</updated>
   <id>http://mythz.github.com/</id>
   <author>
     <name><![CDATA[mythz]]></name>
@@ -33,7 +33,7 @@ inventor of <a href="http://en.wikipedia.org/wiki/Smalltalk">Smalltalk</a> - one
 <a href="http://en.wikipedia.org/wiki/Alan_Kay">Alan Kay</a> holds an insightful read into how the
 <a href="http://www.vpri.org/pdf/m2004001_power.pdf">power of context (pdf)</a> where he recalls the one-of-a-kind environment at
 <a href="http://en.wikipedia.org/wiki/PARC_(company)">Xerox PARC</a> and
-<a href="http://en.wikipedia.org/wiki/Advanced_Research_Projects_Agency">ARPA</a> which were Oriented around
+<a href="http://en.wikipedia.org/wiki/Advanced_Research_Projects_Agency">ARPA</a> which were harnessed around
 "visions rather than goals" and "funded people, not projects" which as a result had attracted brilliant minds together
 cultivating different view points essential for progress where he considers:</p>
 
@@ -90,7 +90,7 @@ aimed at achieving a "Moore’s Law" Leap in Expressiveness by reducing</p>
 re-iterates on this, suggests software engineering has stalled and is becoming a lost science that has not been able
 to advance at the same pace as hardware or other science and engineering disciplines. That large code-bases are akin to a
 garbage dumping ground, reaching the point where no one is able to comprehend the 100M LOC's used to create
-Vista and Word, which should only be a fraction of their size. He gives the Internet and TCP/IP, LISP Interpeters,
+Vista and Word, which should only be a fraction of their size. He gives the Internet and TCP/IP, LISP Interpreters,
 <a href="http://www.vpri.org/pdf/rn2010001_programm.pdf">Nile (Math DSL for Vector Graphics) and OMeta (OO PEG) (pdf)</a>
 as examples of elegant software with profound impact and minimal code-bases.</p>
 
@@ -123,7 +123,7 @@ only able to communicate with messages</p></blockquote>
 
 <p>and a Mathematician:</p>
 
-<blockquote><p>My math background made me realize that each object could haveseveral algebras associated with it,
+<blockquote><p>My math background made me realize that each object could have several algebras associated with it,
 and there could be families of these, and that these would be very very useful.</p></blockquote>
 
 <p>Who after studying Lisp was heavily influenced by it's extreme late-binding and powerful meta capabilities:</p>
@@ -172,7 +172,7 @@ lesser idea.</p></blockquote>
 than their internal object composition:</p>
 
 <blockquote><p>The key in making great and growable systems is much more to design how its modules communicate rather than
-what their internal properties andbehaviors should be.</p></blockquote>
+what their internal properties and behaviors should be.</p></blockquote>
 
 <p>And finds <a href="http://queue.acm.org/detail.cfm?id=1039523">static type systems too crippling</a>:</p>
 
