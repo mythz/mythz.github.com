@@ -5,6 +5,9 @@ body {
   > header, > footer, nav[role=navigation] {
     display: none;
   }
+  #content {
+    background: #fcfcfc;
+  }
 }
 
 #lnk-home {
