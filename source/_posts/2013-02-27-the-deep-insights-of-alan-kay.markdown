@@ -307,3 +307,7 @@ pursuit to improve childrens education! - makes me feel a little better about th
 *****
 
 [Comments in Hacker News](http://news.ycombinator.com/item?id=5293152)
+
+### Translations:
+
+  - http://blog.jobbole.com/35740/ (Chinese)
